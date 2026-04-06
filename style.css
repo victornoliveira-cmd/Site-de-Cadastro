@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(27, 193, 243);
+    color: rgb(7, 43, 241);
+}
+
+input{
+    text-align: center;
+    background-color: cyan;
+    color: rgb(77, 3, 3);
+}
+
+.botao {
+    height: 30px;
+    width: 100px;
+    background-color: red;
+    color: blue;
+}
+#erro {
+    color: red;
+}
+.body1 {
+    background-color: aqua;
+    
+}
